@@ -1,6 +1,6 @@
 # CROP
 
-![Block Diagram](block_diagram.png "Block Diagram")
+![Block Diagram](block_diagram_new.png "Block Diagram")
 
 Character Recognition Of Plates is a program desgined to detect and recognize character from license plate image
 
