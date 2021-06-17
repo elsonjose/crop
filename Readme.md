@@ -6,7 +6,7 @@ Character Recognition Of Plates is a program desgined to detect and recognize ch
 - [Download weight](https://drive.google.com/drive/folders/1p3-IRQgjpCuM7ZQGUZp58MxH97rWdwby?usp=sharing)
 
 ## Datasets
-- [License Plate Detection (after custom anotation)](https://www.kaggle.com/andrewmvd/car-plate-detection)
+- [License Plate Detection (custom anotation required)](https://www.kaggle.com/andrewmvd/car-plate-detection)
 - [License Plate Character Detection](https://www.kaggle.com/thamizhsterio/indian-license-plates)
 - Character Recognition [here](https://www.kaggle.com/kdnishanth/characterrecognitionfromnumberplate) & [here](https://www.kaggle.com/sahajap99/characters-dataset-for-license-plate-recognition)
 
