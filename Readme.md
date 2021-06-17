@@ -26,14 +26,14 @@ The project can be broken down to 3 independent modules
   - source  : path of image (default is sample_car.png)
   - count   : the maximum number of possible plates to predict (default is 10)
 - ### Execution
-  - run ``` pythion crop.py ``` 
+  - run ``` python crop.py ``` 
 
 ## Flask Crop App
 - ### Arguments
   - source  : path of image (default is sample_car.png)
   - count   : the maximum number of possible plates to predict (default is 10)
 - ### Execution
-  - run ``` pythion flaskapp.py ``` 
+  - run ``` python flaskapp.py ``` 
 
 ## Contributors
 - [XC4LIBUR](https://github.com/XC4LIBUR)
